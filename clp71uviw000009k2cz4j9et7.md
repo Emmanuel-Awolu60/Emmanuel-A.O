@@ -3,8 +3,8 @@ title: "Understanding web security."
 datePublished: Mon Nov 20 2023 15:16:27 GMT+0000 (Coordinated Universal Time)
 cuid: clp71uviw000009k2cz4j9et7
 slug: understanding-web-security
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700491587227/551b9d7c-fa10-45ca-8ef6-efc887bb20f5.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700493293900/aa07aa62-784d-43b1-af06-31a4734995de.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700649867945/eeee46e3-9c50-443d-a7ad-e2afe4f456e5.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700649890066/81c858c6-2ee7-4d9f-b94e-ec7b075d1952.png
 tags: software-development, web-development, frontend-development, wemakedevs
 
 ---
