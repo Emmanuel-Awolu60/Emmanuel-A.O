@@ -4,7 +4,7 @@ seoTitle: "What is HTTP? Understanding the Protocol That Powers the Web"
 datePublished: Tue Nov 21 2023 00:08:27 GMT+0000 (Coordinated Universal Time)
 cuid: clp7kv16o000109lceegy4udn
 slug: what-is-http-understanding-the-protocol-that-powers-the-web
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700523384911/4ff5ad92-2646-4d6c-b693-51dd86b34cbb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700649483800/4034e06b-d23b-4d71-80a5-28a4fad72b4b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700524991564/539307af-cf50-4237-a3cb-d85ce0faf6cc.jpeg
 tags: software-development, technology, web-development, technical-writing-1
 
