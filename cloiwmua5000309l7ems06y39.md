@@ -4,8 +4,8 @@ seoTitle: "Exploring Microservices Architectur"
 datePublished: Fri Nov 03 2023 17:43:46 GMT+0000 (Coordinated Universal Time)
 cuid: cloiwmua5000309l7ems06y39
 slug: exploring-microservices-architecture
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700494876298/3001ca73-fa20-46b6-9b41-2b8c102f64b1.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700494913633/6b1700fb-f256-4479-86d5-43bd0bacd951.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700650326250/9f716df6-bb10-49c7-ba20-a66d17c7b2ff.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700650345927/0a568a52-3070-4d68-9234-6b5dd9f2b30e.png
 tags: software-development, programming, web-development, webdev
 
 ---
