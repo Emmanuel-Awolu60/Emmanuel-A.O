@@ -1,8 +1,8 @@
 ---
-title: "How to install Ract JS using Vite: A Fast and Efficient Guide."
+title: "How to install React JS using Vite: A Fast and Efficient Guide."
 datePublished: Tue Jul 09 2024 18:56:59 GMT+0000 (Coordinated Universal Time)
 cuid: clyerw3w2000409ie9u5p7x5z
-slug: how-to-install-ract-js-using-vite-a-fast-and-efficient-guide
+slug: how-to-install-react-js-using-vite-a-fast-and-efficient-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720551243962/0d8203ed-93ec-412e-8cab-1ac3e98832a5.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720551413189/f1b29149-089d-49a9-a829-9e173189a77f.png
 tags: javascript, reactjs, frontend-development
