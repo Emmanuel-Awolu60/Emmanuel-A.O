@@ -13,7 +13,7 @@ tags: programming-blogs, github, python, apis, beginners
 
 At some point, every beginner coder hits the same wall: *"Okay… I can build a calculator. Now what?"*
 
-For me, the next step was an API. Why? Because APIs are like the secret tunnels of the internet — invisible to most people but absolutely essential for getting anything done.
+For me, the next step was an API. Why? Because APIs are like the secret tunnels of the internet invisible to most people but absolutely essential for getting anything done.
 
 This post isn’t just about *making* an API. It’s about documenting the process in a way that future-me (and maybe a recruiter one day) can actually understand. Spoiler: the trick is **GitHub commits**.
 
@@ -23,7 +23,7 @@ This post isn’t just about *making* an API. It’s about documenting the proce
 
 Forget the corporate definition. Imagine you’re at a restaurant. You sit at your table, look at the menu, and order a burger. You do **not** storm into the kitchen to sear your own patty (unless you want to get thrown out). Instead, you tell the waiter, who passes your request to the kitchen.
 
-That waiter? That’s your API. You tell it what you want, it goes to the kitchen (database), and comes back with exactly what you ordered — assuming you asked for something that exists.
+That waiter? That’s your API. You tell it what you want, it goes to the kitchen (database), and comes back with exactly what you ordered assuming you asked for something that exists.
 
 You can build one for anything: to-do lists, weather reports, recipes, bad dad jokes…
 
