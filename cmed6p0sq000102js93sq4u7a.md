@@ -11,21 +11,21 @@ tags: writing, programming-blogs, javascript, tools, developer, coding
 
 ---
 
-When you say “developer tools,” people picture the same greatest-hits lineup — VS Code, GitHub, maybe Postman if you’re feeling like living dangerously. And fair enough, they’re essential. But honestly? Once you start coding every day, you realize your sanity depends just as much on the *other* tools. The ones that don’t get conference talks, the ones nobody tweets about, but without them, my day feels like wading through glue.
+When you say “developer tools,” people picture the same greatest-hits lineup VS Code, GitHub, maybe Postman if you’re feeling like living dangerously. And fair enough, they’re essential. But honestly? Once you start coding every day, you realize your sanity depends just as much on the *other* tools. The ones that don’t get conference talks, the ones nobody tweets about, but without them, my day feels like wading through glue.
 
 So, here’s my slightly-chaotic, no-particular-order list of underrated tools that quietly keep me moving.
 
 ---
 
 **1\. Raycast – Basically My Mac’s Teleporter**  
-If Spotlight is the family sedan, Raycast is the motorbike — faster, sleeker, and slightly more fun to drive. I open apps, search the web, run scripts, dig through my clipboard history, even approve GitHub PRs, all without leaving the keyboard.
+If Spotlight is the family sedan, Raycast is the motorbike faster, sleeker, and slightly more fun to drive. I open apps, search the web, run scripts, dig through my clipboard history, even approve GitHub PRs, all without leaving the keyboard.
 
 I don’t think people realize how much time they spend moving a mouse around like they’re shooing flies. Raycast cuts that nonsense down to almost zero.
 
 ---
 
 **2\. Insomnia – The API Tester I Actually Enjoy Using**  
-Postman’s fine — until it feels like it’s wearing a three-piece suit just to pour you a cup of coffee. Insomnia is lighter, cleaner, and great for REST and GraphQL without all the ceremony.
+Postman’s fine until it feels like it’s wearing a three-piece suit just to pour you a cup of coffee. Insomnia is lighter, cleaner, and great for REST and GraphQL without all the ceremony.
 
 Typical day: I’m wiring up an endpoint, testing requests, saving them for later, grabbing auto-generated snippets for fetch or axios. Job done, no drama.
 
@@ -50,7 +50,7 @@ It’s less “second brain” and more “place I dump everything so I can stop
 **4\. Figma – Because Napkin Sketches Age Poorly**  
 I can’t draw to save my life, and yet sometimes I need to plan a UI. Figma spares me from whatever illegible chicken scratches I’d otherwise produce.
 
-Also, the plugins — instant placeholder data, icon sets, color palettes — basically cheat codes for looking like you know what you’re doing.
+Also, the plugins instant placeholder data, icon sets, color palettes basically cheat codes for looking like you know what you’re doing.
 
 ---
 
@@ -59,7 +59,7 @@ I do not have the mental energy to read `man` pages when all I want is “what�
 
 Example:
 
-```
+```plaintext
 tldr tar  
 tar -xvf file.tar             # Extract file.tar  
 tar -czvf archive.tar.gz folder  # Create compressed archive
@@ -70,7 +70,7 @@ Two lines. Done. Bless.
 ---
 
 **6\. Excalidraw – When I Need to Think in Pictures**  
-Sometimes an idea is just… stuck in my head until I draw it out. Excalidraw’s this ridiculously simple online whiteboard that feels like a pen and paper — except I can share it instantly.
+Sometimes an idea is just… stuck in my head until I draw it out. Excalidraw’s this ridiculously simple online whiteboard that feels like a pen and paper except I can share it instantly.
 
 API flow? Database relationships? Random doodles during a meeting? All fair game.
 
@@ -84,7 +84,7 @@ Before this, I was resizing my browser window over and over like a lab rat press
 **8\. Cronhub – Cron Jobs Without Guesswork**  
 A cron job failing silently is the stuff of nightmares. Cronhub lets me schedule, monitor, and get alerts before things go sideways.
 
-It’s not glamorous — but neither is waking up to find your background tasks died three days ago.
+It’s not glamorous but neither is waking up to find your background tasks died three days ago.
 
 ---
 
