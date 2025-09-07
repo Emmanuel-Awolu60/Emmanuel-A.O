@@ -11,8 +11,8 @@ tags: software-development, programming-blogs, python, web-development, coding, 
 
 I didn’t *plan* to learn backend development. I just wanted my little web app to “remember stuff.” Next thing I knew, I was neck-deep in APIs, HTTP status codes, and wondering why my database kept vanishing.
 
-If the word *backend* sounds mysterious — like a dark room where “the tech people” do wizardry — relax. It’s not Hogwarts. It’s more like a well-run diner.  
-*(Also, like a diner, sometimes the fridge breaks at 3 a.m. and you panic — but we’ll get to that.)*
+If the word *backend* sounds mysterious like a dark room where “the tech people” do wizardry relax. It’s not Hogwarts. It’s more like a well-run diner.  
+*(Also, like a diner, sometimes the fridge breaks at 3 a.m. and you panic but we’ll get to that.)*
 
 ---
 
@@ -26,7 +26,7 @@ Imagine you’re a server at a tiny diner:
     
 * **You**: check the kitchen (database, files, other services).
     
-* **You again**: bring them their plate (the response) — usually JSON, which is just “data in plain text” that computers can chew on.
+* **You again**: bring them their plate (the response) usually JSON, which is just “data in plain text” that computers can chew on.
     
 
 That’s backend in a nutshell.  
@@ -60,7 +60,7 @@ Here’s all you really need to get started:
 * Something to poke your server with (`curl`, browser, Insomnia, Postman)
     
 
-Optional — but honestly, just do it now:
+Optional but honestly, just do it now:
 
 * Virtual environments (`python -m venv venv`) so one project’s mess doesn’t spill into another.
     
@@ -70,9 +70,9 @@ Optional — but honestly, just do it now:
 ## Step 1 — Design the Conversation First
 
 My rookie mistake? Opening an editor before my brain.  
-Do yourself a favor — grab a piece of paper and decide:
+Do yourself a favor grab a piece of paper and decide:
 
-* **What can a user do?** (create, read, update, delete — a.k.a. CRUD)
+* **What can a user do?** (create, read, update, delete a.k.a. CRUD)
     
 * **What does one “thing” look like?**
     
@@ -113,7 +113,7 @@ Run it:
 uvicorn app:app --reload
 ```
 
-*(Assumes you have an* [`app.py`](http://app.py) with a FastAPI app inside — we’ll get there.)
+*(Assumes you have an* [`app.py`](http://app.py) with a FastAPI app inside we’ll get there.)
 
 > **Mini war story:**  
 > First time I ran `uvicorn` in production, I forgot to add `--reload` in dev mode.  
@@ -141,13 +141,13 @@ def list_notes():
 ```
 
 Yes, it’s temporary. No, you don’t care right now.  
-*(Unless you leave it running for weeks, which I did once — until the server restarted and I had to explain to a friend why their “stored” data was gone.)*
+*(Unless you leave it running for weeks, which I did once until the server restarted and I had to explain to a friend why their “stored” data was gone.)*
 
 ---
 
 ## Step 4 — Make It Real with SQLite
 
-Once you’re sick of losing data every time you restart, bring in SQLite — a database that lives in a single file.
+Once you’re sick of losing data every time you restart, bring in SQLite a database that lives in a single file.
 
 [`db.py`](http://db.py):
 
@@ -176,7 +176,7 @@ conn.commit()
 > I once deployed an app with an SQLite file stored in `/tmp`.  
 > The server wiped `/tmp` nightly.  
 > Guess when my users noticed?  
-> Yep — the morning after I’d told them “it’s safe now.”
+> Yep the morning after I’d told them “it’s safe now.”
 
 ---
 
@@ -292,6 +292,6 @@ When you deploy:
 
 ### Final Word
 
-Backend dev isn’t magic — it’s a conversation with rules. Once you get the mental model down, you can build small, solid APIs in days.  
+Backend dev isn’t magic it’s a conversation with rules. Once you get the mental model down, you can build small, solid APIs in days.  
 And yes, you *will* break something eventually. When you do, write it down.  
 Those mistakes become your best cheat sheet.
